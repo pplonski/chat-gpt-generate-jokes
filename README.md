@@ -33,7 +33,7 @@ You can run this notebook locally.
 
 ### Online Demo
 
-This notebook is deployed in the [Mercury Cloud](https://cloud.runmercury.com) service. You can play with app at [jokes.runmercuryc.com](https://jokes.runmercury.com)
+This notebook is deployed in the [Mercury Cloud](https://cloud.runmercury.com) service. You can play with app at [jokes.runmercury.com](https://jokes.runmercury.com)
 
 ### Have fun 😜
 
