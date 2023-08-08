@@ -23,13 +23,15 @@ You can run this notebook locally.
 
 ### Notebook
 
-![Notebook code](https://raw.githubusercontent.com/pplonski/chat-gpt-generate-jokes/main/media/notebook.png)
-
+<kbd>
+<img src="https://raw.githubusercontent.com/pplonski/chat-gpt-generate-jokes/main/media/notebook.png" alt="Notebook code"></img>
+</kbd>
 
 ### Web App
 
-![Notebook as Web App](https://raw.githubusercontent.com/pplonski/chat-gpt-generate-jokes/main/media/web-app.gif)
-
+<kbd>
+<img src="https://raw.githubusercontent.com/pplonski/chat-gpt-generate-jokes/main/media/web-app.gif" alt="Notebook as Web App"></img>
+</kbd>
 
 ### Online Demo
 
