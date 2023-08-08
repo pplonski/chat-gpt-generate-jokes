@@ -1,0 +1,3 @@
+mercury
+openai
+python-dotenv
