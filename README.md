@@ -1,10 +1,16 @@
 # Generate jokes with ChatGPT
 
-> Why did the Python programmer always bring a coffee mug to work? Because he needed a Java to start his day!
+> Why did the Python programmer always bring a coffee mug to work?
+> 
+> Because he needed a Java to start his day!
 
-> Why do Python programmers prefer snakes over other pets? Because they always know how to slither through the code without creating a bug!
+> Why do Python programmers prefer snakes over other pets?
+> 
+> Because they always know how to slither through the code without creating a bug!
 
-> Why did the python programmer bring a ladder to the coding competition? Because they heard they needed to "scale" their program!
+> Why did the python programmer bring a ladder to the coding competition?
+> 
+> Because they heard they needed to "scale" their program!
 
 
 In this repository you will find a Python notebook that generates programming jokes with ChatGPT. The notebook can be served as Web App with [Mercury](https://github.com/mljar/mercury) framework.
